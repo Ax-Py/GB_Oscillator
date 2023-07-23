@@ -4,4 +4,4 @@ Variable frequency crystal oscillator replacement module. Direct replacement for
 
 Recommended to use low temperature solder paste (such as SMDLTLFP10T5) to mount the oscillator on the GBA SP PCB and use normal temperature solder paste for the components on the oscillator PCB.
 
-https://github.com/Ax-Py/Gameboy-Advance-Crystal-Accelerator/blob/main/GBA-Crystal_Accel.png?raw=true
+![Screenshot](https://github.com/Ax-Py/Gameboy-Advance-Crystal-Accelerator/blob/main/GBA-Crystal_Accel.png?raw=true)
