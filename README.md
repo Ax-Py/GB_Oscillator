@@ -1,6 +1,6 @@
 # GBAccelerator
 
-Variable frequency crystal oscillator replacement module. Direct replacement for the crystal oscillator found in the GameBoy Advance SP. Mimics most of the functions of the GBAccelerator from Division 6, but takes up no addtional space.
+Variable frequency crystal oscillator replacement module. Mimics most of the functions of the GBAccelerator from Division 6, but takes up no addtional space since it is the same size as the original crystal oscilator and replaces its spot on the motherboard.
 
 Recommended to use low temperature solder paste (such as SMDLTLFP10T5) to mount the oscillator on the GBA SP PCB and use normal temperature solder paste for the components on the oscillator PCB.
 
